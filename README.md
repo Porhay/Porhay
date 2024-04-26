@@ -1,4 +1,4 @@
-<div align="center">
-  
+<div>
+
 ![Header](https://github.com/Porhay/Porhay/blob/master/assets/typing.gif)
 </div>
